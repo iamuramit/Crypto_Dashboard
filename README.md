@@ -2,6 +2,7 @@
 Cryptocurrency dashboard is a graphical user interface (GUI) or web application that provides real-time or historical data and analytics about various cryptocurrencies, their market trends, and other relevant information. The dashboard typically displays a range of data points, including cryptocurrency prices, trading volumes, market capitalization, and volatility, in the form of charts, tables, and other visualizations.
 
 The Crypto Dashboard in Power BI provides a specialized view of cryptocurrency market trends and performance. This tailored dashboard visualizes intricate data, enabling stakeholders within the crypto industry to gain insights into price movements, trading volumes, and market sentiment.
+
 **Dashboard Components:**
 1. **Price Trends:** Display line charts illustrating historical price trends of key cryptocurrencies, allowing users to identify patterns and fluctuations.
 2. **Volume Analysis:** Visualize trading volumes alongside price movements, helping users gauge market activity and liquidity.
