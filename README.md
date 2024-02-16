@@ -14,14 +14,15 @@ The Crypto Dashboard in Power BI provides a specialized view of cryptocurrency m
 8. **Technical Indicators:** Include popular technical indicators like Moving Averages, RSI, and MACD, aiding in technical analysis.
 9. **Interactive Time Series:** Provide interactive filters to allow users to analyze specific time periods, individual cryptocurrencies, and trading pairs.
 
-10. **Benefits:**
-**Data-Driven Trading:** Insights from the dashboard assist crypto traders in making well-informed trading decisions based on market trends and indicators.
-**Risk Management:** Volatility analysis and technical indicators help manage risk by identifying potential entry and exit points.
-**Investment Strategies:** Price correlations and sentiment analysis support the development of diversified investment strategies.
-**Market Insights:** Data-backed insights aid industry stakeholders in understanding market behavior and predicting future trends.
-**Market Sentiment:** Sentiment analysis helps gauge market sentiment shifts and anticipate potential price movements.
-**ICO Assessment:** Evaluation of ICO performance aids investors and projects in understanding token dynamics.
-**Educational Tool:** The dashboard serves as an educational resource for newcomers to the crypto industry.
-**Market Transparency:** Transparent data representation fosters trust and credibility within the crypto community.
+**Benefits:**
+
+1. **Data-Driven Trading:** Insights from the dashboard assist crypto traders in making well-informed trading decisions based on market trends and indicators.
+2. **Risk Management:** Volatility analysis and technical indicators help manage risk by identifying potential entry and exit points.
+3. **Investment Strategies:** Price correlations and sentiment analysis support the development of diversified investment strategies.
+4. **Market Insights:** Data-backed insights aid industry stakeholders in understanding market behavior and predicting future trends.
+5. **Market Sentiment:** Sentiment analysis helps gauge market sentiment shifts and anticipate potential price movements.
+6. **ICO Assessment:** Evaluation of ICO performance aids investors and projects in understanding token dynamics.
+7. **Educational Tool:** The dashboard serves as an educational resource for newcomers to the crypto industry.
+8. **Market Transparency:** Transparent data representation fosters trust and credibility within the crypto community.
 
 Building a comprehensive Crypto Time Series Analysis Dashboard requires expertise in cryptocurrency markets, data integration, advanced visualization techniques, and an understanding of the unique characteristics of the crypto industry. Collaboration between analysts, traders, and crypto experts ensures a dashboard tailored to industry-specific needs and objectives.
